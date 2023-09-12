@@ -1,0 +1,2 @@
+Para rodar no visual studio code é necessário instalar o ming w e lembrar do caminho o qual foi instalado para colocar a variável de ambiente no path
+Após isso basta criar o arquivo exemplo.c
