@@ -1,6 +1,5 @@
-#include <stdio.h>
+#include <stdio.h>  //Para usar o Printtf()
 int main(int argc, char const *argv[])
 {
-    printf("teste");
-    return 0;
+    return printf("Olá,Mundo");
 }
